@@ -3,3 +3,4 @@ resources/*
 node_modules/*
 public/*
 package-lock.json
+.hugo_build.lock
