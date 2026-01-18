@@ -1,3 +1,19 @@
 {
-    "editor.formatOnSave": false
+    "notebook.formatOnSave.enabled": false,
+    "editor.formatOnSave": false,
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "keep",
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.defaultColorDecorators": "never",
+        "editor.quickSuggestions": {
+            "strings": true,
+            "other": true,
+            "comments": false
+        }
+    },
+    "[json]": {
+        "editor.tabSize": 2
+    },
 }
