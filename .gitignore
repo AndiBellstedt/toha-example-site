@@ -1,4 +1,5 @@
+assets/jsconfig.json
 resources/*
 node_modules/*
 public/*
-.vscode/
+package-lock.json
